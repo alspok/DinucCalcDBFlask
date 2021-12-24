@@ -1,0 +1,33 @@
+b {
+    font-size: 20px;
+}
+
+.rows {
+    justify-content: center;
+}
+
+.textarea-acc {
+    width: 180px;
+    height: 620px;
+    /* height: auto; */
+    /* overflow-y: none; */
+    line-height: 40%; 
+  }
+
+.textarea-res {
+    width: 560px;
+    height: 520px;
+    line-height: 40%;
+}  
+  
+  .border-line {
+      border-right: 1px;
+  }
+
+.top17 { margin-top:17px; }
+.top20 { margin-top:20px; }
+.top30 { margin-top:30px; }
+
+.bottom17 { margin-bottom: 17}
+.bottom20 { margin-bottom: 20}
+.bottom24 { margin-bottom: 30}
